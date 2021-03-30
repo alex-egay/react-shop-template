@@ -1,7 +1,17 @@
-# ReactShop
-it is a small default React shop for use React+Redux
+# ReactShop(Template)
+it is a basic store template written using technology: React&Redux
+## Requirements
+* installed node
+    * https://nodejs.org/en/download/
 
-also it have mock login & use mock JSON server for configure it lock db.json
+## Development
+```bash
+yarn
+```
+# Configure DB
+for using need to set up a file db.json
+### Run
 
-for start this you need use----->
-```yarn install && yarn start```
+```bash
+yarn start
+```
